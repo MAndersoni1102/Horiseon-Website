@@ -1,2 +1,2 @@
 # Horiseon-Website
-Horiseon website designed to meet industry standards in accessibility.  
+Horiseon website editied and designed to meet industry standards in accessibility.  
